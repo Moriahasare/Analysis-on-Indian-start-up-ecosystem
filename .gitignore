@@ -1,1 +1,4 @@
+/venv_moriah
+/.ipynb_checkpoints
 /.env
+/get-pip.py
