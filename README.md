@@ -1,5 +1,3 @@
-![My Image](https://images.app.goo.gl/ddReQAWbkcMHPb976)
-
 # Analysis on Indian Startup Ecosystem
 
 ## Table of Content 
