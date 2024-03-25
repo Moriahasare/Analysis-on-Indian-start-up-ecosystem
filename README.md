@@ -152,6 +152,7 @@ Open a Pull Request
 
 - GitHub: [GitHub Profile](https://github.com/Moriahasare)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/moriah-asare/)
+- Medium: [Medium](https://medium.com/@moriahasare/analysis-on-indian-startup-ecosystem-82a53aea10cf)
 - Email: [Email](moriahasare@gmail.com)
 
 
@@ -159,16 +160,3 @@ Open a Pull Request
 I acknowledge the following sources for their contribution to this analysis: 
 [1]. https://www.exchangerates.org.uk/INR-USD-spot-exchange-rates-history-2018.html 
  
-
-
-
-
-
-
-
-
-
-  
-
-
-[getting-started]: #getting-started
